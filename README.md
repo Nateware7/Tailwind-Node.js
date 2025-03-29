@@ -147,4 +147,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 --- 
 
-Let me know if you want additional customization! 😊
+Let me know if you want additional customization!
